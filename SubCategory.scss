@@ -1,0 +1,10 @@
+@import "../../../../Styles/common.scss";
+
+.subCategory {
+  border: 1px solid pink;
+
+  .productContainer {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
